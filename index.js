@@ -1,1 +1,1 @@
-const dirvers = ['Milo', 'Otis', 'Garfield']
+const dirvers = ['Milo', 'Otis', 'Garfield'];
